@@ -11,7 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
             <hr/>
-	   <h1>Haapy Journey.... Safe flight.... Enjoy INDIA vocation...!!!</h1>
+	   <h1>Enjoy INDIA vocation...!!!</h1>
 	  </p>
           <a
             className="App-link"
